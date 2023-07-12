@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Jully 12 - 13, 2023[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[[C[C[C[C[C[C[C[C[C[C[C[C[uly 12 - 13, 2023
+- Facilitator: @Igor Iric
 
 ## Class Resources
 
